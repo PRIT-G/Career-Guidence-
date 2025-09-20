@@ -1,2 +1,4 @@
 # Career-Guidence
-Track Titan - Android Application for tracking and managing activities.  This repository contains the APK build for easy installation and testing.
+Track Titan - A modern web-based platform for tracking and managing activities.  
+This repository contains the full website source code with features, installation guide, and documentation.
+
