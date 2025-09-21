@@ -1,4 +1,4 @@
 # Career-Guidence
-Track Titan - A modern web-based platform for career guidence like explore careers,career opportunities,exames,roadmap,resume creating and download option with goog formating
+Track Titan - A modern web-based platform for career guidence like explore careers,career opportunities,exames,roadmap,resume creating and download option with good formating
 This repository contains the full website source code with features, installation guide, and documentation.
 
